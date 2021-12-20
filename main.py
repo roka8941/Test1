@@ -44,9 +44,7 @@
     ex)
     >>> type({'apple', 'banana', 'orange'})
     <class 'set'>
-
-
-
+'''
 
 
 
